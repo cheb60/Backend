@@ -1,0 +1,12 @@
+{
+  "name": "JayJay/Backend",
+  "description": "JayJay Backend",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jeroen Wallbrink",
+      "email": "jeroenwallbrink@gmail.com"
+    }
+  ]
+}
