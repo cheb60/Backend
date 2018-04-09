@@ -2,6 +2,7 @@
   "name": "jayjay/backend",
   "description": "JayJay Backend",
   "minimum-stability": "stable",
+  "type": "jayjay-module",
   "license": "proprietary",
   "authors": [
     {
