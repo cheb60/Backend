@@ -9,5 +9,8 @@
       "name": "Jeroen Wallbrink",
       "email": "jeroenwallbrink@gmail.com"
     }
-  ]
+  ],
+  "require": {
+    "composer/installers": "~1.0"
+  }
 }
